@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiHeightRequestIssue.MainPage">
 
-    <!-- DELETE HeightRequest PROPRERTY TO TEST THE WORKAROUND -->
+    <!-- DELETE HeightRequest PROPERTY TO TEST THE WORKAROUND -->
     <Ellipse
         x:Name="Circle"
         Fill="Blue"
